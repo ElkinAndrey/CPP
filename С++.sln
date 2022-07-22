@@ -9,6 +9,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DrawBin", "DrawBin\DrawBin.
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DrawInGarticPhone", "DrawInGarticPhone\DrawInGarticPhone.vcxproj", "{81A35CF2-1BD4-4FCC-BAF1-22570E5D266E}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MandelbrotSet", "MandelbrotSet\MandelbrotSet.vcxproj", "{2F4A0964-3F9F-4301-9BF3-39802BA2F20C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -41,6 +43,14 @@ Global
 		{81A35CF2-1BD4-4FCC-BAF1-22570E5D266E}.Release|x64.Build.0 = Release|x64
 		{81A35CF2-1BD4-4FCC-BAF1-22570E5D266E}.Release|x86.ActiveCfg = Release|Win32
 		{81A35CF2-1BD4-4FCC-BAF1-22570E5D266E}.Release|x86.Build.0 = Release|Win32
+		{2F4A0964-3F9F-4301-9BF3-39802BA2F20C}.Debug|x64.ActiveCfg = Debug|x64
+		{2F4A0964-3F9F-4301-9BF3-39802BA2F20C}.Debug|x64.Build.0 = Debug|x64
+		{2F4A0964-3F9F-4301-9BF3-39802BA2F20C}.Debug|x86.ActiveCfg = Debug|Win32
+		{2F4A0964-3F9F-4301-9BF3-39802BA2F20C}.Debug|x86.Build.0 = Debug|Win32
+		{2F4A0964-3F9F-4301-9BF3-39802BA2F20C}.Release|x64.ActiveCfg = Release|x64
+		{2F4A0964-3F9F-4301-9BF3-39802BA2F20C}.Release|x64.Build.0 = Release|x64
+		{2F4A0964-3F9F-4301-9BF3-39802BA2F20C}.Release|x86.ActiveCfg = Release|Win32
+		{2F4A0964-3F9F-4301-9BF3-39802BA2F20C}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
