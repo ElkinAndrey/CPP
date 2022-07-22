@@ -11,6 +11,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DrawInGarticPhone", "DrawIn
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MandelbrotSet", "MandelbrotSet\MandelbrotSet.vcxproj", "{2F4A0964-3F9F-4301-9BF3-39802BA2F20C}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Paint", "Paint\Paint.vcxproj", "{0C312F2A-9C6E-4B00-A980-4233BC935251}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -51,6 +53,14 @@ Global
 		{2F4A0964-3F9F-4301-9BF3-39802BA2F20C}.Release|x64.Build.0 = Release|x64
 		{2F4A0964-3F9F-4301-9BF3-39802BA2F20C}.Release|x86.ActiveCfg = Release|Win32
 		{2F4A0964-3F9F-4301-9BF3-39802BA2F20C}.Release|x86.Build.0 = Release|Win32
+		{0C312F2A-9C6E-4B00-A980-4233BC935251}.Debug|x64.ActiveCfg = Debug|x64
+		{0C312F2A-9C6E-4B00-A980-4233BC935251}.Debug|x64.Build.0 = Debug|x64
+		{0C312F2A-9C6E-4B00-A980-4233BC935251}.Debug|x86.ActiveCfg = Debug|Win32
+		{0C312F2A-9C6E-4B00-A980-4233BC935251}.Debug|x86.Build.0 = Debug|Win32
+		{0C312F2A-9C6E-4B00-A980-4233BC935251}.Release|x64.ActiveCfg = Release|x64
+		{0C312F2A-9C6E-4B00-A980-4233BC935251}.Release|x64.Build.0 = Release|x64
+		{0C312F2A-9C6E-4B00-A980-4233BC935251}.Release|x86.ActiveCfg = Release|Win32
+		{0C312F2A-9C6E-4B00-A980-4233BC935251}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
