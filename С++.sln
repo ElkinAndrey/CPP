@@ -17,6 +17,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "RestartingTheComputer", "Re
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SnakePicsel", "SnakePicsel\SnakePicsel.vcxproj", "{A5071D2F-58AF-499F-B825-F2A349A56646}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Virus", "Virus\Virus.vcxproj", "{39B1180A-0D34-4A73-B7E8-D99C949F7AE0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -81,6 +83,14 @@ Global
 		{A5071D2F-58AF-499F-B825-F2A349A56646}.Release|x64.Build.0 = Release|x64
 		{A5071D2F-58AF-499F-B825-F2A349A56646}.Release|x86.ActiveCfg = Release|Win32
 		{A5071D2F-58AF-499F-B825-F2A349A56646}.Release|x86.Build.0 = Release|Win32
+		{39B1180A-0D34-4A73-B7E8-D99C949F7AE0}.Debug|x64.ActiveCfg = Debug|x64
+		{39B1180A-0D34-4A73-B7E8-D99C949F7AE0}.Debug|x64.Build.0 = Debug|x64
+		{39B1180A-0D34-4A73-B7E8-D99C949F7AE0}.Debug|x86.ActiveCfg = Debug|Win32
+		{39B1180A-0D34-4A73-B7E8-D99C949F7AE0}.Debug|x86.Build.0 = Debug|Win32
+		{39B1180A-0D34-4A73-B7E8-D99C949F7AE0}.Release|x64.ActiveCfg = Release|x64
+		{39B1180A-0D34-4A73-B7E8-D99C949F7AE0}.Release|x64.Build.0 = Release|x64
+		{39B1180A-0D34-4A73-B7E8-D99C949F7AE0}.Release|x86.ActiveCfg = Release|Win32
+		{39B1180A-0D34-4A73-B7E8-D99C949F7AE0}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
