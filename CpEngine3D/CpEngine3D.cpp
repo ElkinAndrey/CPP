@@ -172,7 +172,6 @@ void DoPoint3D(RGBQUAD* arr, float mas[3]) {
         int(CenterX + x1 * mas[0] + x2 * mas[1] + x3 * mas[2]),
         int(CenterY + y1 * mas[0] + y2 * mas[1] + y3 * mas[2])
     );
-
 }
 
 // Рисует линию в 2Д плоскости из 3Д пространства
@@ -261,6 +260,14 @@ void func(HDC hdc) {
     float P24[] = { 1, 1, -2 };
 
 
+    //DoFigure3D(arr, P01, P01, P05, P06);
+    //DoFigure3D(arr, P01, P02, P03, P04);
+
+    // Портал в 4 измерение
+    DoFigure3D(arr, P05, P13, P09, P18);
+    DoFigure3D(arr, P21, P22, P23, P24);
+
+    //DoFigure3D(arr, P02, P06, P07, P09);
     DoLine3D(arr, P01, P02);
     DoLine3D(arr, P02, P03);
     DoLine3D(arr, P03, P04);
